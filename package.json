@@ -2,6 +2,9 @@
   "name": "messenger-webhook",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "8.9.1"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +22,9 @@
     "firebase-functions": "^2.0.5",
     "request": "^2.88.0",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/dexhrestha/Waiter-Bot"
+  },
 }

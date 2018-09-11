@@ -9,7 +9,7 @@ const
 
 //messenger bot framework 
 const BootBot = require('bootbot');
-
+const PORT = process.env.PORT || 3000;
 const bot = new BootBot({
   accessToken :FACEBOOK_ACESS_TOKEN,
   verifyToken : 'hello',
@@ -19,5 +19,4 @@ const bot = new BootBot({
 bot.on('message',(payload,chat)=>{
   process(chat,payload)
   })
-
-bot.start();
+bot.start(PORT);
