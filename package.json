@@ -23,8 +23,5 @@
     "request": "^2.88.0",
     "xmlhttprequest": "^1.8.0"
   },
-   "repository": {
-    "type": "git",
-    "url": "https://github.com/dexhrestha/Waiter-Bot"
-  },
+ 
 }
