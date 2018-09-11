@@ -1,0 +1,5 @@
+module.exports={
+	apiai : 'c5d6ba6bede8475ab8d31b14569626c4',
+	fb: 'EAACD0RW9HQABAOCGNOWZCVkBZAeSHyPnNyjPkvpznVgfprHfeNwmr9JEtNQAqVboFR7azeh5M6n7a8VE2RZBIsP2xseS4AbiMNiV4ecHKygzVmT9nb07TJ4Yh3cA1ZAMobVLnJoVosMNRieKVZA0lZAUycf7HHwuhFeHlTG3bovRZCaCqqK21sn',
+	secret:'4d69e990aaa4404f304765a72090963f'
+}
